@@ -1,2 +1,2 @@
-# academy-source-control-template
-Template repo for use in the Source Control sessions for NJA and Generation DE programmes
+# july-2025-source-control-practice
+Template repo for use in Source Control sessions
